@@ -1,0 +1,15 @@
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb

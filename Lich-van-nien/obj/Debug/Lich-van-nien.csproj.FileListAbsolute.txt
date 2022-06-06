@@ -1,0 +1,77 @@
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\hanng\source\repos\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\hanng\Desktop\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\DELL\Downloads\Lich-van-nien (1)\Lich-van-nien\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb
+C:\Users\hanng\Downloads\Lich-van-nien ver 2\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.TraNgay.resources
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe.config
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.exe
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\Lich-van-nien.pdb
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.dll
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\bin\Debug\System.Management.Automation.xml
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Lich.resources
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.Properties.Resources.resources
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich_van_nien.TraNgay.resources
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.csproj.CopyComplete
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.exe
+C:\Users\DELL\Downloads\Lich-van-nien ver 3\Lich-van-nien ver 3\Lich-van-nien\Lich-van-nien\obj\Debug\Lich-van-nien.pdb
